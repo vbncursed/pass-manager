@@ -13,7 +13,7 @@
 2. Перейдите в директорию с проектом:
 
     ```bash
-    cd password-manager
+    cd pass-manager
     ```
 
 3. Соберите проект:

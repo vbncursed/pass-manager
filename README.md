@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/password-manager.git
+    git clone https://github.com/vbncursed/password-manager.git
     ```
 
 2. Перейдите в директорию с проектом:
